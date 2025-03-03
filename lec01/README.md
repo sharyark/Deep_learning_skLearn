@@ -1,0 +1,4 @@
+A **multilayer perceptron (MLP)** is needed for non-linear data because a single-layer perceptron can only learn linear patterns. By adding multiple layers with activation functions, an MLP can learn complex relationships and make accurate predictions even when the data is not linearly separable. The hidden layers transform the input data in a way that captures non-linear patterns, allowing the model to handle more complicated tasks like image recognition, speech processing, and classification problems.  
+
+### Forward Pass  
+The **forward pass** is the process where input data moves through the network layer by layer, undergoing transformations via weights, biases, and activation functions until it reaches the output layer. This step generates predictions based on the current parameters of the network, which are later adjusted during training.
